@@ -47,12 +47,28 @@ table {
 	border-spacing: 0;
 }
 
+footer {
+	background-color:#1db954;
+	padding-bottom: 15px;
+}
+
 .logo {
-    background-color:#1db954;
-    padding:20px;
+    padding:10px;
     text-align: center;
 }
 
 .logo h2 {
     color: #191414;
+	font-family: Montserrat;
+	font-size: 40px;
 }
+  
+.upper-list{
+	margin: 5px 20px;
+	text-align: center;
+}
+
+.upper-list a {
+	padding: 0 10px;
+  }
+
